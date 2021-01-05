@@ -1,0 +1,3 @@
+classificaation is to predict a class, logistic regression is only used for classfication
+regresssion to predict continuous number
+clustering belong to identify some pateern of data
